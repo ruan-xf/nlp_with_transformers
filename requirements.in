@@ -1,0 +1,19 @@
+ipykernel
+torch
+pytorch-lightning
+pandas
+
+# 指标计算
+evaluate
+sacrebleu
+rouge_score
+
+datasets
+transformers[torch]
+huggingface_hub[hf_xet]
+
+sentencepiece
+
+scikit-learn
+tensorboard
+python-dotenv

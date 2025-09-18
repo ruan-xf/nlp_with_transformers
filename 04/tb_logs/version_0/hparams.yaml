@@ -1,0 +1,7 @@
+bert_model: albert-base-v2
+freeze_bert: false
+lr: 2.0e-05
+weight_decay: 0.01
+num_warmup_steps: 0
+maxlen: 128
+batch_size: 16
